@@ -1,0 +1,15 @@
+import hw01
+reload(hw01)
+
+hw01.printTopOfPole()
+hw01.printFiveWithPole('Z')
+hw01.printFive('M')
+hw01.printAlternatingWithNewLine('B','V')
+hw01.printFiveThenTenWithPole('K','G')
+hw01.printAlternatingWithPole('H','Z')
+hw01.printAlternating('D','F')
+hw01.printAlternatingWithNewLine('M','N')
+hw01.printAlternatingWithPole('H','Z')
+hw01.printAlternating('D','F')
+hw01.printAlternating('M','N')
+hw01.printPoleBottom()
